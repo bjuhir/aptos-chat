@@ -1,0 +1,16 @@
+[package]
+name = "GatedChat"
+version = "1.0.0"
+authors = []
+
+[addresses]
+gated_chat = "0x4456fe29a8cebca8632068f79ac50e79d3675b87e0cddcb1f24d95ec5d218bba"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
