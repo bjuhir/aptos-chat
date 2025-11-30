@@ -30,6 +30,7 @@ aptos-gated-chat/
 
 **Deployed Address**: `0x4456fe29a8cebca8632068f79ac50e79d3675b87e0cddcb1f24d95ec5d218bba`  
 **Network**: Aptos Devnet
+<img width="2846" height="1322" alt="Screenshot 2025-11-30 at 12 12 11 PM" src="https://github.com/user-attachments/assets/a6bcd03e-adf2-47c4-ad19-d1e56758c9b4" />
 
 ### Functions
 
@@ -51,11 +52,7 @@ aptos-gated-chat/
 - Aptos CLI (`brew install aptos` on macOS)
 - Aptos wallet (Petra recommended)
 
-### 1. Clone & Navigate
-
-```bash
-cd /Users/juhir/.gemini/antigravity/scratch/aptos-gated-chat
-```
+### 1. Clone the repo
 
 ### 2. Install Frontend Dependencies
 
